@@ -1,0 +1,60 @@
+1. Keep track of the subdomains that it visited and count how many different URLs it has
+ processed from each of those subdomains
+www.ics	22
+2. Find the page with the most valid out links (of all pages given to your crawler). Out links are the
+number of links that are present on a particular webpage
+The page is https://www.ics.uci.edu/ with 113 links
+3. List of downloaded URL's and Identified traps
+4. What is the longest page in terms of number of words?(HTML markup doesn't count as words)
+https://www.ics.uci.edu/	463words
+What are the 50 most common words in the entire set of pages?
+1. policies	9
+2. bren	8
+3. school	7
+4. computer	7
+5. ics	7
+6. uci	7
+7. more	7
+8. donald	6
+9. learn	6
+10. s	5
+11. research	5
+12. academic	5
+13. student	5
+14. events	5
+15. professor	5
+16. information	4
+17. sciences	4
+18. irvine	4
+19. contact	4
+20. informatics	4
+21. students	4
+22. study	4
+23. support	4
+24. news	4
+25. university	3
+26. california	3
+27. graduate	3
+28. computing	3
+29. faculty	3
+30. 1m	3
+31. receives	3
+32. 1	3
+33. grant	3
+34. home	2
+35. about	2
+36. hall	2
+37. visit	2
+38. departments	2
+39. science	2
+40. statistics	2
+41. highlights	2
+42. apply	2
+43. year	2
+44. plan	2
+45. policy	2
+46. 199	2
+47. upcoming	2
+48. staff	2
+49. gift	2
+50. partners	2
